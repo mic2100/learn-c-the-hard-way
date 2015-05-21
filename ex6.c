@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     double super_power = 56789.4532;
     char initial = 'M';
     char first_name[] = "Michael";
-    char last_name[] = "Bardslet";
+    char last_name[] = "Bardsley";
 
     printf("You are %d miles away.\n", distance);
     printf("You have %f levels of power.\n", power);
